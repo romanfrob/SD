@@ -1,0 +1,2 @@
+Operation nr 1: Report [idreport=1, iduser=2, operation=Deleted something]
+Operation nr 2: Report [idreport=2, iduser=2, operation=Made an account transaction]
